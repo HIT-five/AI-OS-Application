@@ -124,6 +124,7 @@ AI-OS-Application/
 - [技能开发指南](docs/skill-development.md)
 - [工作流设计指南](docs/workflow-design.md)
 - [OpenClaw 集成指南](docs/openclaw-integration.md)
+- [📦 贡献者指南：从本地任务到应用商店](docs/contribution-workflow.md)
 
 ## 🤝 贡献指南
 

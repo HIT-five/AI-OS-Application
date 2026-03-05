@@ -2,6 +2,16 @@
 
 感谢你对 AI-OS-Application 的兴趣！
 
+> 📖 **完整贡献流程请参考：[从本地任务到应用商店：贡献者指南](docs/contribution-workflow.md)**
+
+## 快速开始
+
+如果你有一个在 OpenClaw 中稳定运行的任务，想分享给社区：
+
+1. Fork 本仓库
+2. 按照 [贡献者指南](docs/contribution-workflow.md) 拆分和组织你的任务
+3. 提交 PR
+
 ## 如何贡献
 
 ### 1. 贡献技能（Skill）
