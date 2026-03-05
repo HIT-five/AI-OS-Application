@@ -1,0 +1,46 @@
+# 敏感配置
+**/config/secrets.json
+**/config/*_cookies.json
+**/*.cookie
+**/auth-*.json
+
+# API密钥
+.env
+.env.local
+*.key
+
+# 运行时状态（可选择性忽略）
+# **/state/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Node
+node_modules/
+npm-debug.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+logs/
+
+# 临时文件
+tmp/
+temp/
+*.tmp
